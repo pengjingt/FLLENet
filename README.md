@@ -104,7 +104,8 @@ python tools/detect.py configs/resa/resa34_culane.py --img images\
 ```
 ## Acknowledgement
 <!--ts-->
-* [Turoad/lanedet]([https://github.com/open-mmlab/mmdetection](https://github.com/Turoad/lanedet))
+* [Li-Chongyi/Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE)
+* [Turoad/lanedet](https://github.com/Turoad/lanedet)
 * [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)
 * [pytorch/vision](https://github.com/pytorch/vision)
 * [cardwing/Codes-for-Lane-Detection](https://github.com/cardwing/Codes-for-Lane-Detection)
@@ -127,5 +128,4 @@ If you use
 }
 ``` -->
 
-Download [CULane](https://xingangpan.github.io/projects/CULane.html). Then extract them to `$CULANEROOT`. Create link to `data` directory.
 
